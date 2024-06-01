@@ -1,61 +1,94 @@
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\appsettings.json
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\MyDotNetAPP.exe
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\MyDotNetAPP.deps.json
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\MyDotNetAPP.runtimeconfig.json
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\MyDotNetAPP.dll
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\MyDotNetAPP.pdb
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\Npgsql.dll
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.csproj.AssemblyReference.cache
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.AssemblyInfoInputs.cache
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.AssemblyInfo.cs
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.csproj.CoreCompileInputs.cache
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\scopedcss\bundle\MyDotNetAPP.styles.css
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.csproj.CopyComplete
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.dll
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\refint\MyDotNetAPP.dll
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.pdb
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.genruntimeconfig.cache
-C:\Users\Jawakhar\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\ref\MyDotNetAPP.dll
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\appsettings.json
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\MyDotNetAPP.exe
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\MyDotNetAPP.deps.json
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\MyDotNetAPP.runtimeconfig.json
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\MyDotNetAPP.dll
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\MyDotNetAPP.pdb
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\Npgsql.dll
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.csproj.AssemblyReference.cache
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.AssemblyInfoInputs.cache
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.AssemblyInfo.cs
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.csproj.CoreCompileInputs.cache
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\scopedcss\bundle\MyDotNetAPP.styles.css
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.csproj.CopyComplete
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.dll
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\refint\MyDotNetAPP.dll
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.pdb
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\MyDotNetAPP.genruntimeconfig.cache
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\obj\Debug\net6.0\ref\MyDotNetAPP.dll
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Jawakhar\OneDrive\Desktop\project Z\MyDotNetAPP\MyDotNetAPP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/appsettings.json
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/MyDotNetAPP.exe
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/MyDotNetAPP.deps.json
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/MyDotNetAPP.runtimeconfig.json
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/MyDotNetAPP.dll
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/MyDotNetAPP.pdb
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Npgsql.dll
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.csproj.AssemblyReference.cache
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.AssemblyInfoInputs.cache
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.AssemblyInfo.cs
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.csproj.CoreCompileInputs.cache
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/scopedcss/bundle/MyDotNetAPP.styles.css
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.csproj.CopyComplete
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.dll
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/refint/MyDotNetAPP.dll
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.pdb
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.genruntimeconfig.cache
+C:/Users/Jawakhar/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/ref/MyDotNetAPP.dll
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/appsettings.json
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/MyDotNetAPP.exe
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/MyDotNetAPP.deps.json
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/MyDotNetAPP.runtimeconfig.json
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/MyDotNetAPP.dll
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/MyDotNetAPP.pdb
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Npgsql.dll
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.csproj.AssemblyReference.cache
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.AssemblyInfoInputs.cache
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.AssemblyInfo.cs
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.csproj.CoreCompileInputs.cache
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/scopedcss/bundle/MyDotNetAPP.styles.css
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.csproj.CopyComplete
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.dll
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/refint/MyDotNetAPP.dll
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.pdb
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.genruntimeconfig.cache
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/ref/MyDotNetAPP.dll
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Jawakhar/OneDrive/Desktop/project Z/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/appsettings.Development.json
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/appsettings.json
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/MyDotNetAPP
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/MyDotNetAPP.deps.json
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/MyDotNetAPP.runtimeconfig.json
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/MyDotNetAPP.dll
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/MyDotNetAPP.pdb
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Npgsql.dll
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.csproj.AssemblyReference.cache
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.AssemblyInfoInputs.cache
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.AssemblyInfo.cs
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.csproj.CoreCompileInputs.cache
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.MvcApplicationPartsAssemblyInfo.cs
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.MvcApplicationPartsAssemblyInfo.cache
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/staticwebassets.build.json
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/staticwebassets.development.json
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/scopedcss/bundle/MyDotNetAPP.styles.css
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.csproj.CopyComplete
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.dll
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/refint/MyDotNetAPP.dll
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.pdb
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/MyDotNetAPP.genruntimeconfig.cache
+/Users/mukeshn/Downloads/MyDotNetAPP/MyDotNetAPP/obj/Debug/net6.0/ref/MyDotNetAPP.dll
